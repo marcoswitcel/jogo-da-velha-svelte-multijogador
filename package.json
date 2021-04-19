@@ -1,5 +1,5 @@
 {
-  "name": "jogo-da-velha",
+  "name": "jogo-da-velha-svelte-multijogador-node-websocket",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "sirv-cli": "^1.0.0",
-    "svelte-routing": "^1.5.0"
+    "svelte-routing": "^1.5.0",
+    "ws": "^7.4.5"
   }
 }
